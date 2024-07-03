@@ -1,5 +1,5 @@
 # OTRLabs
-<img src="https://github.com/OTRLabs/.github/blob/5eefc8ec65b4106267f777d7295946d1515ae0a3/branding/branding/png/logo-color.png" alt="OTRLabs Logo" width="300" height="300">
+<img src="branding/png/logo-color.png" alt="OTRLabs Logo" width="300" height="300">
 > Developing open offensive tooling!
 
 ## Welcome to OTRLabs! 🚀
